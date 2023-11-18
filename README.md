@@ -6,7 +6,7 @@ This will work with future updates of the game. If it does stop working on a fut
 
 ## Instructions for use
 
-1. Go to C:\windows\system32\ inside of your bottle and copy version.dll into the same folder as Cities2.exe in your bottle.R ename this file to version_orig.dll (if you forget this step, this patcher will copy the file for you but the game will crash on the first run. You will need to launch the game again for it to take effect)
+1. Go to C:\windows\system32\ inside of your bottle and copy version.dll into the same folder as Cities2.exe in your bottle. Rename this file to version_orig.dll (if you forget this step, this patcher will copy the file for you but the game will crash on the first run. You will need to launch the game again for it to take effect)
 2. Download the latest release from this repo and copy version.dll into the same folder as Cities2.exe in your bottle
 3. Edit your wine configuration and add Cities2.exe to your application ovveride settings
 ![image](https://github.com/manolz1/cities2-gptk-fix/assets/47918724/a83bf9fe-626d-4c17-9f4c-de647e1e517d)
